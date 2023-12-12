@@ -1,4 +1,5 @@
-<img width="546" alt="Maverik" src="https://github.com/only2venkat/Maverik_final_Capstone/assets/123605788/61720faa-5bdf-4941-b607-b507da541f8e">
+
+<img width="546" alt="Maverik" src="https://github.com/only2venkat/Maverik_final_Capstone/assets/123605788/f71a3c3c-af84-4b65-a8ed-e8209247cc9e">
 
 ## Business Problem and project Objective :
 A retail convenience chain, Maverik, fuels adventures in more than 380 locations across 12 western states. Maverik is known for premium BonFire food, diesel and unleaded fuel, and in-store merchandise. The company is on an expansion spree and as part of its growth, it recently acquired “ Kum & Go” nearly doubling its store count.
