@@ -1,5 +1,5 @@
 ![Maverik](https://github.com/only2venkat/Maverik_final_Capstone/assets/123605788/ba4bfc0a-9e5e-4ce2-a3ea-378b2b48ea83)
-# Business Problem and project Objective :
+## Business Problem and project Objective :
 A retail convenience chain, Maverik, fuels adventures in more than 380 locations across 12 western states. Maverik is known for premium BonFire food, diesel and unleaded fuel, and in-store merchandise. The company is on an expansion spree and as part of its growth, it recently acquired “ Kum & Go” nearly doubling its store count.
 The company is planning to open 30 new stores yearly in a new market, and it needs to forecast daily sales for the new store. This is crucial for financial planning and return on investment (ROI) assessment for these new stores. 
 The challenge lies in predicting the first-year sales for these newly acquired stores accurately. By using currently available historical dataset to address analytical problems , the objective is to identifying trends and patterns in sales data, understanding the relationship between sales and other factors, and identifying outliers and anomalies. By addressing these analytical problems, we plan to build a sales forecasting model.
